@@ -1,0 +1,17 @@
+.footer {
+  position: absolute;
+  bottom: 0;
+  border-top: 1px solid #e4e4e4;
+  padding-top: 10px;
+  width: 100%;
+}
+
+.footer .container {
+  display: flex;
+  justify-content: center;
+  width:100%;
+}
+
+.footer-message .glyphicon {
+  font-color: #ff0000;
+}
